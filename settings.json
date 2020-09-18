@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "glassit.alpha": 225,
+    "glassit.step": 10,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Community Material Theme Darker",
+    "sync.autoUpload": true,
+    "sync.autoDownload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.gist": "3269449bd10d20a6bf82cdba22d23737",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
