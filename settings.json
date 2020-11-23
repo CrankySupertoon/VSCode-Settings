@@ -11,5 +11,6 @@
     "sync.forceUpload": true,
     "sync.gist": "3269449bd10d20a6bf82cdba22d23737",
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 4
 }
